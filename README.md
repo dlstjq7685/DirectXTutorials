@@ -9,7 +9,8 @@ base 2d / build 2d engine
 - https://msdn.microsoft.com/en-us/library/windows/desktop/dd940323(v=vs.85).aspx
 
 # Todo List   
-- Image Control
+- Text Draw
+- Image Control , Draw
 - Color Control
 - Sound Control
 - Mouse, Keyboard Control
