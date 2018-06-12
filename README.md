@@ -16,6 +16,11 @@ base 2d / build 2d engine
 - Mouse, Keyboard Control
 - Network Connection Contorl
 - Program Window Control
+- Thread Contorl
 
 # Tutlrial List
 - tutorial1: create window
+   
+# Fix List
+- Text Font, Size Change
+- Control Window Objects
