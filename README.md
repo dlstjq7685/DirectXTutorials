@@ -17,9 +17,11 @@ base 2d / build 2d engine
 - Network Connection Contorl
 - Program Window Control
 - Thread Contorl
+- Window event handler
 
 # Tutlrial List
 - tutorial1: create window
+- tutorial2: Simple text draw
    
 # Fix List
 - Text Font, Size Change
