@@ -24,6 +24,7 @@ base 2d / build 2d engine
 - tutorial2: Simple text draw
 - tutorial3: Mouse / KeyBoard Input
 - tutorial4: Image Load
+- tutorial5: rebuild main loop
 # Fix List
 - Text Font, Size Change
 - Control Window Objects
